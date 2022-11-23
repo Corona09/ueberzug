@@ -1,5 +1,7 @@
 # Überzug
 
+**NOTE: This is a temporary fork of Überzug. It is based on the last proper commit and no more changes have been made to the project other than this notice. I decided to make a temporary fork for my ueberzug-9999 ebuild because the official ebuild is broken. When there's a proper fork by someone with Python knowledge, this repository will be archived.**
+
 Überzug is a command line util
 which allows to draw images on terminals by using child windows.
 
